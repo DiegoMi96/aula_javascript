@@ -1,2 +1,2 @@
-# aula_javascript
-Introdução ao javaScript
+# jogo_genesis
+Meu  primeiro projeto
